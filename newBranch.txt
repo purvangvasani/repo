@@ -1,2 +1,7 @@
 This is New Branch File..
+<<<<<<< Updated upstream
 New line
+=======
+This is new data
+###########
+>>>>>>> Stashed changes
